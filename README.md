@@ -6,7 +6,7 @@ Click the frog → it’s gone
 
 Let it touch the lake → it disappears
 
-That’s it. No long tutorials, no complicated controls — just quick reactions, clean logic, and a bit of fun.
+That’s it. No long tutorials, no complicated controls — just quick reactions, clean logic, and lots of fun.
 
 Behind the scenes, this project plays with core game-dev ideas like click detection, collision handling, and object destruction. It was built collaboratively, making it just as much about teamwork and learning as it is about gameplay.
 
