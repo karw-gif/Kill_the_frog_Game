@@ -1,15 +1,23 @@
-Kill the Frog is a simple interactive 2D game built collaboratively to demonstrate core game development concepts such as user input handling, collision detection, and object lifecycle management.
+Meet Kill the Frog — a tiny, chaotic 2D game where one frog is having a very bad day.
 
-In the game, the player can eliminate the frog by clicking on it. Additionally, when the frog collides with the lake, it automatically disappears from the scene, simulating a loss or removal condition. These mechanics showcase how mouse events and collision triggers are handled in a game environment.
+The rules are simple:
 
-🎮 Key Features
+Click the frog → it’s gone
 
-Click-based interaction to destroy the frog
+Let it touch the lake → it disappears
 
-Collision detection with the lake
+That’s it. No long tutorials, no complicated controls — just quick reactions, clean logic, and a bit of fun.
 
-Automatic object removal on collision
+Behind the scenes, this project plays with core game-dev ideas like click detection, collision handling, and object destruction. It was built collaboratively, making it just as much about teamwork and learning as it is about gameplay.
 
-Simple and intuitive gameplay logic
+🎮 Why this game exists
 
-Built as a collaborative project using version control
+To practice handling user input (clicks)
+
+To learn collision detection the fun way
+
+To understand how game objects live… and disappear
+
+To collaborate using GitHub without breaking things 😄
+
+Simple, playful, and beginner-friendly — Kill the Frog is proof that even the smallest games can teach big ideas.
